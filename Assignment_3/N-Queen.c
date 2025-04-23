@@ -1,5 +1,5 @@
-//Name- Tanay Yaduka
-//PRN-22070521086
+//Name- Anmol Chourasia
+//PRN-22070521091
 
 #include <stdbool.h>
 #include <stdio.h>
