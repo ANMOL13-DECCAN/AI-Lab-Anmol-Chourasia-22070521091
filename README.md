@@ -1,1 +1,4 @@
-# AI-Lab-Anmol-Chourasia-22070521091
+# AI_LAB
+## Subject: AI Lab
+## Name: Tanay Yaduka
+## PRN: 22070521086
